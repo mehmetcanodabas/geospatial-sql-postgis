@@ -1,0 +1,56 @@
+
+# Ignore everything by default
+*
+
+# Allow project directories
+!*/
+
+# Python scripts
+!*.py
+
+# SQL queries
+!*.sql
+
+# Documentation
+!*.md
+
+# Project configuration
+!compose.yaml
+!requirements.txt
+!.gitignore
+!.gitattributes
+
+# QGIS result images
+!docs/results/*.png
+!docs/results/*.jpg
+!docs/results/*.jpeg
+
+# Ignore downloaded datasets
+data/
+*.geojson
+*.geoparquet
+*.parquet
+
+# Ignore Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ignore secrets and local environment settings
+.env
+.env.*
+!.env.example
+
+# Ignore local development files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore database dumps and temporary files
+*.dump
+*.backup
+*.log
+*.tmp

@@ -1,0 +1,3 @@
+overturemaps
+psycopg[binary]
+python-dotenv
