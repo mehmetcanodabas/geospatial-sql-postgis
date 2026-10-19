@@ -1,4 +1,3 @@
-
 ## geospatial-sql-postgis
 
 Implementation of a PostgreSQL/PostGIS-Based Geospatial Data Pipeline for Spatial SQL Analysis of Building Footprints and Road Networks
