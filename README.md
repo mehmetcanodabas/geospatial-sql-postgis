@@ -17,7 +17,6 @@ Spatial SQL queries are used to analyze building characteristics, road proximity
 
 [Dresden Building and Road Network](docs/results/dresden_buildings_roads.png): Spatial distribution of building footprints and road segments in Dresden, Germany.
 
-**Keywords:** Geospatial Data Engineering, Spatial SQL,
-PostGIS, Spatial JOIN, GiST Indexing, ETL, QGIS.
+**Keywords:** Geospatial Data Engineering, Spatial SQL, PostGIS, Spatial JOIN, GiST Indexing, ETL, QGIS, Python.
 
 **Data Source:** Overture Maps.
